@@ -23,6 +23,7 @@ A recent graduate of the School of Code full stack software engineering bootcamp
 <h3 align="left">Current Projects:</h3>
 Checkout my projects created in agile teams during the School of Code bootcamp:
 
+
 - [WasteNot: WantNot](https://wastenot-wantnot.netlify.app/) - a food waste app which allows uses to plan meals, track expiry dates and donate surplus items to local communities. :green_apple:
 - [Resource.log()](https://resourcelog.netlify.app/) - a learning resource hub to improve the lives of coding bootcampers. :book:
 
