@@ -27,7 +27,9 @@ Checkout my projects created in agile teams during the School of Code bootcamp:
 - [WasteNot: WantNot](https://wastenot-wantnot.netlify.app/) - a food waste app which allows uses to plan meals, track expiry dates and donate surplus items to local communities. :green_apple:
 - [Resource.log()](https://resourcelog.netlify.app/) - a learning resource hub to improve the lives of coding bootcampers. :book:
 
-I love travel  :earth_africa: and brining people together for delicious vegan food :curry: and ceilidh dancing :dancer:. Currently working on [Climate Conscious Cooking](https://climate-conscious-cooking.vercel.app/homepage),  a website to share the recipes I've developed over the years. 
+I love travel  :earth_africa: and brining people together for delicious vegan food :curry: and ceilidh dancing :dancer:. Currently working on [Climate Conscious Cooking](https://climate-conscious-cooking.vercel.app/homepage),  a website to share the recipes I've developed over the years.
+
+I'm also in the design phase of creating a [patient management database](https://www.figma.com/proto/5ZgmI8uZ5qSIVhCBEpGhLJ/Daire?node-id=148%3A965&scaling=scale-down&page-id=0%3A1&starting-point-node-id=148%3A965&show-proto-sidebar=1) for a therapy clinic in Spain with a team of fellow bootcampers. 
 
 I would love to hear from you on Linkedin <a href="https://www.linkedin.com/in/amanda-richards-68605a95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>. 
 
