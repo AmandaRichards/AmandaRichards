@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <h3 align="left">About me</h3>
 A recent graduate of the School of Code full stack software engineering bootcamp excited to find my first role in tech. Having obtained an MSc Environment and Development from the University of Edinburgh and started my career in the charity sector I am passionate about the power of technology to drive positive change. 
 
+You can view my projects and find out more about me on my [portfolio](https://amandarichards.netlify.app/) site. 
+
 <h3 align="left">Current Projects:</h3>
 Checkout my projects created in agile teams during the School of Code bootcamp:
 
@@ -30,8 +32,6 @@ Checkout my projects created in agile teams during the School of Code bootcamp:
 I love travel  :earth_africa: and brining people together for delicious vegan food :curry: and ceilidh dancing :dancer:. Currently working on [Climate Conscious Cooking](https://climate-conscious-cooking.vercel.app/homepage),  a website to share the recipes I've developed over the years.
 
 I'm also in the design phase of creating a [patient management database](https://www.figma.com/proto/5ZgmI8uZ5qSIVhCBEpGhLJ/Daire?node-id=148%3A965&scaling=scale-down&page-id=0%3A1&starting-point-node-id=148%3A965&show-proto-sidebar=1) for a therapy clinic in Spain with a team of fellow bootcampers. 
-
-You can view my projects and find out more about me on my [portfolio](https://amandarichards.netlify.app/) site. 
 
 I would love to hear from you on Linkedin <a href="https://www.linkedin.com/in/amanda-richards-68605a95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>. 
 
