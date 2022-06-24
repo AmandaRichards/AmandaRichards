@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">About me</h3>
 A recent graduate of the School of Code full stack software engineering bootcamp excited to find my first role in tech. Having obtained an MSc Environment and Development from the University of Edinburgh and started my career in the charity sector I am passionate about the power of technology to drive positive change. 
+<br></br>
 
 
 You can view my projects and find out more about me on my [portfolio](https://amandarichards.netlify.app/) site. 
