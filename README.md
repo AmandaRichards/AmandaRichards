@@ -31,7 +31,7 @@ I love travel  :earth_africa: and brining people together for delicious vegan fo
 
 I'm also in the design phase of creating a [patient management database](https://www.figma.com/proto/5ZgmI8uZ5qSIVhCBEpGhLJ/Daire?node-id=148%3A965&scaling=scale-down&page-id=0%3A1&starting-point-node-id=148%3A965&show-proto-sidebar=1) for a therapy clinic in Spain with a team of fellow bootcampers. 
 
-You can also view my projects and find out more about me on my [portfolio](https://amandarichards.netlify.app/) site. 
+You can view my projects and find out more about me on my [portfolio](https://amandarichards.netlify.app/) site. 
 
 I would love to hear from you on Linkedin <a href="https://www.linkedin.com/in/amanda-richards-68605a95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>. 
 
